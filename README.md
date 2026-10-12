@@ -18,6 +18,7 @@ Here, we present a comprehensive single-cell transcriptomic analysis of porcine 
 
 ## 📁 Repository Structure
 
+```text
 .
 ├── README.md                  # Project overview and documentation
 ├── install_packages.R         # Script for checking and installing dependencies
